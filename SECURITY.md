@@ -2,7 +2,7 @@
 
 ## Commercial Use
 
-This software is licensed for non-commercial and educational use only. Any commercial use of this software requires explicit permission from the developers. For inquiries regarding commercial licensing, please contact [developer_email@example.com](mailto:developer_email@example.com).
+This software is licensed for non-commercial and educational use only. Any commercial use of this software requires explicit permission from the developers. For inquiries regarding commercial licensing, please contact [mail.musenrei@gmail.com](mailto:mail.musenrei@gmailom).
 
 ## Source Code Protection
 
@@ -30,7 +30,7 @@ To prevent source code theft and unauthorized distribution, consider the followi
 
 ### Reporting Security Concerns
 
-If you discover any security vulnerabilities or have concerns about unauthorized use or distribution of this software, please report them to [developer_email@example.com](mailto:developer_email@example.com) immediately.
+If you discover any security vulnerabilities or have concerns about unauthorized use or distribution of this software, please report them to [mail.musenrei@gmail.com](mailto:mail.musenrei@gmailom) immediately.
 
 ## Disclaimer
 
