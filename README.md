@@ -38,6 +38,7 @@ SMTP-Devil is a powerful tool designed to check the functionality of SMTP server
 
 ## Get in touch
 - Telegram [Mu Senrei](t.me/musenrei)
+- [Email](mailto:mail.musenrei@gmailom)
 
 
 **Warning**: This tool is intended for educational purposes only. Misuse of this tool to test SMTP servers without proper authorization may violate applicable laws and regulations. It is your responsibility to ensure that you have appropriate permission before using this tool on any system or network. The developer(s) of this tool shall not be held responsible for any misuse or unauthorized access resulting from the use of this software.
