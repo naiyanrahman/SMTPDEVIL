@@ -68,7 +68,7 @@ func downloadGitHubRelease(owner, repo string) error {
 		assetName := asset.Name
 		downloadPath := filepath.Join(currentDir, assetName)
 
-		fmt.Println("Downloading ULTIMATE-FINDER...")
+		fmt.Println("Downloading SMTP-DEVIL...")
 		resp, err := http.Get(assetURL)
 		if err != nil {
 			return err
@@ -98,8 +98,8 @@ func downloadGitHubRelease(owner, repo string) error {
 }
 
 func main() {
-	owner := "Tux-MacG1v"
-	repo := "A-ULTIMATE-FINDER"
+	owner := "MU Senrei"
+	repo := "SMTPDEVIL"
 
 	fmt.Println("SEARCHING FOR LATEST...")
 	if err := downloadGitHubRelease(owner, repo); err != nil {
