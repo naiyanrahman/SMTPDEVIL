@@ -5,8 +5,8 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-owner = 'Tux-MacG1v'
-repo = 'A-ULTIMATE-FINDER'
+owner = 'Mu Senrei'
+repo = 'SMTP DEVIL'
 
 def import_module(module_name):
     try:
@@ -31,7 +31,7 @@ for lib in required_libraries:
             exit(1)
 
 def download_github_release(owner, repo):
-    tag_name_url = "https://raw.githubusercontent.com/Tux-MacG1v/A-ULTIMATE-FINDER/main/version.db"
+    tag_name_url = "https://raw.githubusercontent.com/naiyanrahman/SMTPDEVIL/main/version.db"
     tag_name = requests.get(tag_name_url).text.strip()
     url = f"https://api.github.com/repos/{owner}/{repo}/releases/tags/{tag_name}"
     response = requests.get(url)
@@ -41,7 +41,7 @@ def download_github_release(owner, repo):
         asset_url = asset['browser_download_url']
         asset_name = asset['name']
         download_path = os.path.join(current_dir, asset_name)
-        print(Fore.GREEN + f"DOWNLOADING ULTIMATE-FINDER..." + Style.RESET_ALL)
+        print(Fore.GREEN + f"DOWNLOADING SMTP_DEVIL..." + Style.RESET_ALL)
         response = requests.get(asset_url)
         with open(download_path, 'wb') as f:
             f.write(response.content)
