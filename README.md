@@ -26,7 +26,7 @@ SMTP-Devil is a powerful tool designed to check the functionality of SMTP server
 ## Usage
 
 - **Windows Users**: Utilize `smtps.exe`.
-- **Linux Users**: Use `smtps`.
+- **Linux Users**: Use `go run smtps.go`.
 - **Mac Users**: Apologies, no specific version available at the moment.
 - **Build Your Own Version**: Alternatively, you can build a version suitable for your system.
 
