@@ -1,6 +1,6 @@
 # SMTP-Devil
 
-SMTP-Devil is a powerful tool designed to check the functionality of SMTP servers efficiently. By sending test emails using provided credentials, it ensures the reliability and effectiveness of SMTP configurations. Below are some essential details and instructions for utilizing this tool effectively.
+SMTP-Devil is a open-source powerful tool designed to check the functionality of SMTP servers efficiently. By sending test emails using provided credentials, it ensures the reliability and effectiveness of SMTP configurations. Below are some essential details and instructions for utilizing this tool effectively.
 
 ## Features
 
